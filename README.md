@@ -1,1 +1,1 @@
-i[image](https://github.com/yangchuanyu0129/yangchuanyu20182155006.github.io/blob/README.md/yonglitu.png.png)
+![image](https://github.com/yangchuanyu0129/yangchuanyu20182155006.github.io/blob/README.md/yonglitu.png.png)
